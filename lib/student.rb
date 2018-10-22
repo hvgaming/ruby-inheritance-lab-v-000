@@ -1,6 +1,7 @@
 class Student 
 attr_accessor :knowledge
- end 	  def initialize
+ end 	  
+ def initialize
     @knowledge = []
   end
    def learn(string)
