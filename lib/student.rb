@@ -8,4 +8,3 @@ attr_accessor :knowledge
     knowledge << string
   end
 end
-end
